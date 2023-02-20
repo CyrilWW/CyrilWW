@@ -14,7 +14,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### Configuration management
-![GitHub](https://img.shields.io/badge/github.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-SVN-grey?style=for-the-badge)
 
 ### Languages
