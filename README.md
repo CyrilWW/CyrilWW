@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Cyril 😊
+
+Here you will find some code sharing, including the projects I did as part of my Data Scientist training with OpenClassrooms.
