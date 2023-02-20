@@ -33,7 +33,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ### Frameworks
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![WinPython](https://img.shields.io/badge/WinPython.svg?style=for-the-badge&logo=WinPython&logoColor=white)
+![WinPython](https://img.shields.io/badge/WinPython-WinPython-yellow?style=for-the-badge)
 
 ### Cloud
 
