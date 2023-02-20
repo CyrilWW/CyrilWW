@@ -2,7 +2,7 @@
 
 Here you will find some code sharing, including the projects I did as part of my Data Scientist training with OpenClassrooms.
 
-# ![Cyril GABORIT](https://github.com/CyrilWW/CyrilWW/homemade-simpson.png)
+# ![Cyril GABORIT](https://github.com/CyrilWW/CyrilWW/blob/main/homemade-simpson.png)
 
 ## Hard skill
 ### Data science
