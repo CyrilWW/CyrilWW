@@ -15,7 +15,7 @@ Here you will find some code sharing, including the projects I did as part of my
 
 ### Configuration management
 ![GitHub](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN.svg?style=for-the-badge&logo=SVN&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-SVN-grey?style=for-the-badge)
 
 ### Languages
 
