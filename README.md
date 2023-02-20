@@ -75,7 +75,7 @@ Here you will find some code sharing, including the projects I did as part of my
 
 ## Cloud / AWS 	☁️
 
-- <p style="font-size:18px; ">Image Dimension Reduction at Scale <a href="https://github.com/CyrilWW/OC-DS-Projet-8">(AWS, EMR, PySpark)</a>, <a href="https://github.com/CyrilWW/OC-DS-Projet-8/src" >details here</a></p>
+- <p style="font-size:18px; ">Image Dimension Reduction at Scale <a href="https://github.com/CyrilWW/OC-DS-Projet-8">(AWS, EMR, PySpark)</a>, <a href="https://github.com/CyrilWW/OC-DS-Projet-8/tree/main/src" >details here</a></p>
 
 
 
