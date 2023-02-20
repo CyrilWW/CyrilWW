@@ -7,7 +7,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ## Hard skill
 ### Data science
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -38,7 +38,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![GCP](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-GCP-blue?style=plastic)
 
 ### Other
 
