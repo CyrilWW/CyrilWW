@@ -47,17 +47,17 @@ Here you will find some code sharing, including the projects I did as part of my
 
 ## Data analysis and visualization 📊
 
-- <p style="font-size:18px; ">Data analysis of educational data <a href="https://github.com/CyrilWW/OC-DS-Projet-2">(Exploratory Data Analysis)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-2/notebooks/1_EDA_en.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Data analysis of educational data <a href="https://github.com/CyrilWW/OC-DS-Projet-2">(Exploratory Data Analysis)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-2/blob/main/notebooks/1_EDA_en.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Data analysis for a public health organization <a href="https://github.com/CyrilWW/OC-DS-Projet-3">(Exploratory Data Analysis)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-3/notebooks/1_Exploration_en.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Data analysis for a public health organization <a href="https://github.com/CyrilWW/OC-DS-Projet-3">(Exploratory Data Analysis)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-3/blob/main/notebooks/1_Exploration_en.ipynb" >details here</a></p>
 
 ## Machine Learning 👨‍🎓
 
-- <p style="font-size:18px; ">Building energy prediction in Seattle <a href="https://github.com/CyrilWW/OC-DS-Projet-4">(Regression models)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-4/notebooks/1_exploration_en.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Building energy prediction in Seattle <a href="https://github.com/CyrilWW/OC-DS-Projet-4">(Regression models)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-4/blob/main/notebooks/1_exploration_en.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/CyrilWW/Projet_5">(Unsupervised model, clustering with KMeans)</a>, <a href="https://nbviewer.org/github/CyrilWW/Projet_5/blob/main/Solution/POLIST_02_notebookessais.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Customer segmentation <a href="https://github.com/CyrilWW/Projet_5">(Unsupervised model, clustering with KMeans)</a>, <a href="https://nbviewer.org/github/CyrilWW/OC-DS-Projet-5/blob/main/notebooks/1_exploration_en.ipynb" >details here</a></p>
 
-- <p style="font-size:18px; ">Credit scoring model <a href="https://github.com/CyrilWW/OC-DS-Projet-7">(Classification model with imbalanced data)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-7/notebooks/1_EDA.ipynb" >details here</a></p>
+- <p style="font-size:18px; ">Credit scoring model <a href="https://github.com/CyrilWW/OC-DS-Projet-7">(Classification model with imbalanced data)</a>, <a href="https://nbviewer.org/github.com/CyrilWW/OC-DS-Projet-7/blob/main/notebooks/1_EDA.ipynb" >details here</a></p>
 
 
 ## Deep Learning 🧠
