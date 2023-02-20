@@ -13,10 +13,6 @@ Here you will find some code sharing, including the projects I did as part of my
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### Configuration management
-![GitHub](https://img.shields.io/badge/GitHub-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-SVN-grey?style=for-the-badge)
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,6 +30,10 @@ Here you will find some code sharing, including the projects I did as part of my
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![WinPython](https://img.shields.io/badge/WinPython-WinPython-yellow?style=for-the-badge)
+
+### Configuration management
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-SVN-grey?style=for-the-badge)
 
 ### Cloud
 
