@@ -59,11 +59,11 @@ Here you will find some code sharing, including the projects I did as part of my
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 
 
-## Other other 🧰🔨🎼🎵🎸🥁📷🪔👟😝
-![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
-![Castorama](https://img.shields.io/static/v1?style=for-the-badge&message=Castorama&color=0078D7&logo=Castorama&logoColor=FFFFFF&label=) 
+## Other other 🎼🎵🎸🥁📷🪔🧰🔨👟😝
 ![TuxGuitar](https://img.shields.io/badge/-TuxGuitar-F05032?&style=for-the-badge&logo=Linux&logoColor=white)
 ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=)
+![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
+![Castorama](https://img.shields.io/static/v1?style=for-the-badge&message=Castorama&color=0078D7&logo=Castorama&logoColor=FFFFFF&label=) 
 
  
 # 
