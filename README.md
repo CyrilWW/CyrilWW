@@ -12,6 +12,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Languages
 
@@ -33,6 +34,7 @@ Here you will find some code sharing, including the projects I did as part of my
 
 ### Configuration management
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-SVN-grey?style=for-the-badge)
 
 ### Cloud
@@ -41,7 +43,9 @@ Here you will find some code sharing, including the projects I did as part of my
 ![GCP](https://img.shields.io/badge/GCP-GCP-blue?style=for-the-badge)
 
 ### Other
-
+SQL
+MySQL
+PHP
 
 # Project Overview 🛠
 
