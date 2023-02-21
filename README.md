@@ -34,24 +34,39 @@ Here you will find some code sharing, including the projects I did as part of my
 ![WinPython](https://img.shields.io/badge/WinPython-yellow?style=for-the-badge&logo=python&color=blue&logoColor=yellow)
 
 ### Configuration management
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 ![Subversion](https://img.shields.io/static/v1?style=for-the-badge&message=Subversion&color=809CC9&logo=Subversion&logoColor=FFFFFF&label=)
 
 ### Cloud
-
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 
 ### Other
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Lubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Lubuntu&color=0068C8&logo=Lubuntu&logoColor=FFFFFF&label=)
+![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)
+
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Perl](https://img.shields.io/static/v1?style=for-the-badge&message=Perl&color=39457E&logo=Perl&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![GTK](https://img.shields.io/static/v1?style=for-the-badge&message=GTK&color=222222&logo=GTK&logoColor=7FE719&label=)
 ![Fortran](https://img.shields.io/static/v1?style=for-the-badge&message=Fortran&color=734F96&logo=Fortran&logoColor=FFFFFF&label=)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 
+
+## Other other 🧰🔨🎼🎵🎸🥁📷🪔👟😝
+![Leroy Merlin](https://img.shields.io/static/v1?style=for-the-badge&message=Leroy+Merlin&color=222222&logo=Leroy+Merlin&logoColor=78BE20&label=)
+![Castorama](https://img.shields.io/static/v1?style=for-the-badge&message=Castorama&color=0078D7&logo=Castorama&logoColor=FFFFFF&label=) 
+![TuxGuitar](https://img.shields.io/badge/-TuxGuitar-F05032?&style=for-the-badge&logo=Linux&logoColor=white)
+![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=)
+
+ 
+# 
 
 # Project Overview 🛠
 
