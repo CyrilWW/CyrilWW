@@ -17,7 +17,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-%2300599C.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=MATLAB&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![R](https://img.shields.io/badge/R-%2300599C.svg?style=for-the-badge&logo=R&logoColor=white)
