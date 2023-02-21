@@ -31,7 +31,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ### Frameworks
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![WinPython](https://img.shields.io/badge/WinPython-yellow?style=for-the-badge&logo=python&color=blue&logoColor=yellow)
+![WinPython](https://img.shields.io/badge/WinPython-yellow?style=for-the-badge&logo=python&color=00599C&logoColor=yellow)
 
 ### Configuration management
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +46,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ### Other
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Lubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Lubuntu&color=0068C8&logo=Lubuntu&logoColor=FFFFFF&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)
 
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
@@ -56,7 +56,7 @@ Here you will find some code sharing, including the projects I did as part of my
 ![GTK](https://img.shields.io/static/v1?style=for-the-badge&message=GTK&color=222222&logo=GTK&logoColor=7FE719&label=)
 ![Fortran](https://img.shields.io/static/v1?style=for-the-badge&message=Fortran&color=734F96&logo=Fortran&logoColor=FFFFFF&label=)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
+![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=white&logo=LaTeX&logoColor=000000&label=)
 
 
 ## Other other 🎼🎵🎸🥁📷🪔🧰🔨👟😝
